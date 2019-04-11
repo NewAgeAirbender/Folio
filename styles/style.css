@@ -392,6 +392,7 @@ nav.navbar-default{
     height    : 180px;
     display   : block;
     width : 299px;
+    object-fit: cover;
     }
 
 .portfolio-item .portfolio-info {
